@@ -1,0 +1,5 @@
+C:\Users\jeevitha_j\source\repos\SpecFlowProject1\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.csproj.AssemblyReference.cache
+C:\Users\jeevitha_j\source\repos\SpecFlowProject1\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevitha_j\source\repos\SpecFlowProject1\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.AssemblyInfoInputs.cache
+C:\Users\jeevitha_j\source\repos\SpecFlowProject1\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.AssemblyInfo.cs
+C:\Users\jeevitha_j\source\repos\SpecFlowProject1\SpecFlowProject1\obj\Debug\net5.0\SpecFlowProject1.csproj.CoreCompileInputs.cache
